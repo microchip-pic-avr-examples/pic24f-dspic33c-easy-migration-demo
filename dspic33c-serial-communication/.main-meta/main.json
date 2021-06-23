@@ -3,11 +3,11 @@
    "category":"com.microchip.ide.project",
    "content":{
       "metaDataVersion":"1.0.0",
-      "name":"com.microchip.mplabx.project.pic24f-dspic33c-easy-migration-demo",
+      "name":"com.microchip.mplabx.project.dspic33c-serial-communication",
       "version":"1.0.0",
-      "displayName":"PIC24F/DSPIC33C Easy Code Migration Demo",
-      "projectName":"pic24f-dspic33c-easy-migration-demo",
-      "shortDescription":"PIC24F/DSPIC33C Easy Code Migration Demo",
+      "displayName":"dsPIC33C Easy Code Migration Demo",
+      "projectName":"dspic33c-serial-communication",
+      "shortDescription":"dsPIC33C Easy Code Migration Demo",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=5.40.0"
@@ -30,17 +30,13 @@
          "content":{
             "metaDataVersion":"1.0.0",
             "category":"com.microchip.device",
-            "name":"PIC24FJ64GU205",
+            "name":"dsPIC33CK64MC105",
             "versionRange":"*"
          }
       },
       "peripherals":[
-         "DMA",
-         "CAN"
       ],
       "keywords":[
-         "DMA",
-         "Sensor"
       ]
    }
 }
