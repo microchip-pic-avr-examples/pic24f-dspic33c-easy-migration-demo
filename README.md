@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-## %repoDescritpion%
+## PIC24F DSPIC33C EASY MIGRATION DEMO
 
 Board Image if any.
 
