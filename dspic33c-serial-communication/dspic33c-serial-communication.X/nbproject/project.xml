@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>dsPIC33C_SerialCommunication</name>
+            <name>dspic33c-serial-communication</name>
             <creation-uuid>b4c74baa-893e-448a-b6a4-0cc29eaa2907</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
