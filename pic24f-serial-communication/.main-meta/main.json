@@ -3,11 +3,11 @@
    "category":"com.microchip.ide.project",
    "content":{
       "metaDataVersion":"1.0.0",
-      "name":"com.microchip.mplabx.project.pic24f-dspic33c-easy-migration-demo",
+      "name":"com.microchip.mplabx.project.pic24f-serial-communication",
       "version":"1.0.0",
-      "displayName":"PIC24F/DSPIC33C Easy Code Migration Demo",
-      "projectName":"pic24f-dspic33c-easy-migration-demo",
-      "shortDescription":"PIC24F/DSPIC33C Easy Code Migration Demo",
+      "displayName":"PIC24F Easy Code Migration Demo",
+      "projectName":"pic24f-serial-communication",
+      "shortDescription":"dsPIC33C Easy Code Migration Demo",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=5.40.0"
@@ -35,12 +35,8 @@
          }
       },
       "peripherals":[
-         "DMA",
-         "CAN"
       ],
       "keywords":[
-         "DMA",
-         "Sensor"
       ]
    }
 }
